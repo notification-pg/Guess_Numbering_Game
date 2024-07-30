@@ -12,7 +12,7 @@ int main()  {
     number = rand()%100 + 1;       // Generates a random number between 1 and 100
     printf("The number is %d\n", number);
 
-    // keep running the loopuntil the number is guessed
+    // keep running the loop until the number is guessed
     do
     {
         printf("Guess the number between 1 to 100\n");
